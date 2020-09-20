@@ -1,0 +1,12 @@
+number_of_students 9
+number_of_assignments 3
+student_number first_name last_name 10 10 10
+98861 BOB BARKER 8 5 9
+23091 bill kerman 6 9 10
+48701 bob kerman 10 10 10
+55335 jebediah kerman 5 6 5
+25825 val kerman 10 7 5
+70558 STEVE ROGERS 10 5 9
+89390 Luke Skywalker 5 7 10
+83937 TONY STARK 8 10 10
+18150 Darth Vader 10 6 6
